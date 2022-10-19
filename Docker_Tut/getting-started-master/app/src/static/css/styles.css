@@ -1,13 +1,17 @@
 body {
-    background-color: #f4f4f4;
+    background: rgb(255,7,0);
+    background: linear-gradient(90deg, rgba(255,7,0,1) 0%, rgba(234,212,37,1) 16%, rgba(238,255,10,1) 31%, rgba(43,236,110,1) 51%, rgba(10,231,244,1) 68%, rgba(8,120,240,1) 81%, rgba(179,0,255,1) 93%);
     margin-top: 50px;
     font-family: 'Lato';
+    
 }
 
 .item {
     background-color: white;
+    background-image: url(https://media.giphy.com/media/ydMNTWYVjSEFi/giphy.gif);
     padding: 15px;
     margin-bottom: 15px;
+    color: white;
     border: transparent;
     border-radius: 5px;
     box-shadow: 0 0 1em #ccc;
