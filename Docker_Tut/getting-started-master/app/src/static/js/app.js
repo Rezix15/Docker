@@ -106,7 +106,7 @@ function AddItemForm({ onNewItem }) {
                         disabled={!newItem.length}
                         className={submitting ? 'disabled' : ''}
                     >
-                        {submitting ? 'Adding...' : 'Add Item'}
+                        {submitting ? 'Adding...' : 'Add'}
                     </Button>
                 </InputGroup.Append>
             </InputGroup>
@@ -164,7 +164,7 @@ function ItemDisplay({ item, onItemUpdate, onItemRemoval }) {
                 <Col xs={1} className="text-center remove">
                     <Button
                         size="sm"
-                        variant="link"
+                        variant="warning"
                         onClick={removeItem}
                         aria-label="Remove Item"
                     >
