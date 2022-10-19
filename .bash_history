@@ -88,3 +88,87 @@ cd app
 docker ps
 d
 docker rm 38255
+cd Docker_Tut
+cd getting-started-master
+
+docker ps -a
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+cd ../
+ls
+cd getting-started-master/
+ls
+git add .
+git commit -m "new commit"
+git push
+git remote add origin https://github.com/Rezix15/Docker
+git push
+git push --set-upstream origin master
+ls
+cd
+ls
+ls -la\
+cd .ssh
+ls
+cd
+eval "$(ssh-agent -s)"
+cd .ssh
+ls
+ssh-add id_rsa
+cd ..
+ls\
+ls
+cd Docker_Tut
+ls
+cd getting-started-master
+git add .
+git commit -m "changes"
+git add
+git add .
+git push
+git pull
+git pull(1)
+git branch --set-upstream-to=origin master
+cd ..
+git clone git@github.com:Rezix15/Docker.git
+ls
+cd Docker
+ls
+cd Docker_Tut
+ls
+cd getting-started-master
+ls
+nano me.txt
+git push
+git add .
+git commit -m "test"
+git push
+cd 
+ls
+cd Docker
+git add .
+git commit -m "Updated changes"
+git push
+ls
+cd ../
+ls
+cd Docker_Tut
+ls
+git add .
+git commit -m "Updated changes"
+git add .
+git commit -m "Updated changes"
+cd ../
+git add .
+cd Docker_Tut
+git add .
+git commit -m "Updated changes"
+ls
+~
+git push
+git push --set-upstream origin master
+git remote add origin git@github.com:Rezix15/Docker.git
+git remote add origin
+git remote add git@github.com:Rezix15/Docker.git
+git remote add origin git@github.com:Rezix15/Docker.git
+ls

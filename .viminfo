@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1666155987,,"wq"
+|2,0,1666188410,,"wq"
+:q!
+|2,0,1666185415,,"q!"
+:!q
+|2,0,1666185018,,"!q"
 
 # Search String History (newest to oldest):
 
@@ -25,137 +29,265 @@
 # Registers:
 
 # File marks:
-'0  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,48,2,28,1666155987,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
-'1  6  50  ~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css
-|4,49,6,50,1666155669,"~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css"
-'2  2  26  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,50,2,26,1666155605,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
-'3  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,51,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
-'4  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,52,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
-'5  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,53,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
+'0  179  39  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
+|4,48,179,39,1666188410,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
+'1  5  19  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,49,5,19,1666188288,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'2  14  3  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,50,14,3,1666187680,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'3  14  3  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,51,14,3,1666187680,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'4  14  21  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,52,14,21,1666187317,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'5  14  21  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,53,14,21,1666187317,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'6  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,54,11,80,1666187174,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'7  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,55,11,80,1666187174,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'8  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,56,11,80,1666187174,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+'9  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,57,11,80,1666187174,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
 
 # Jumplist (newest first):
+-'  179  39  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
+|4,39,179,39,1666188410,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
+-'  167  39  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
+|4,39,167,39,1666188313,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
+-'  5  19  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,5,19,1666188288,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  5  19  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,5,19,1666188288,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  14  3  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,14,3,1666188274,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  14  3  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,14,3,1666188274,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  14  3  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,14,3,1666187680,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  14  3  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,14,3,1666187680,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  14  21  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,14,21,1666187317,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  14  21  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,14,21,1666187317,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187299,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187299,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187299,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187299,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187299,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187299,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187174,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  11  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,11,80,1666187174,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  20  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,20,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  19  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,19,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  20  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,20,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  19  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,19,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  20  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,20,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  19  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,19,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  20  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,20,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  19  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,19,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  20  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,20,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  19  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,19,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  20  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,20,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  19  105  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,19,105,1666187052,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  24  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,24,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  23  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,23,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  24  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,24,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  23  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,23,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  24  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,24,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  23  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,23,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  24  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,24,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  23  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,23,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  24  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,24,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  23  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,23,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  24  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,24,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  23  9  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,23,9,1666186746,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186321,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186067,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  6  80  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,6,80,1666186067,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666186013,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666185561,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  3  200  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,3,200,1666185561,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
 -'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,39,2,28,1666155987,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
--'  6  50  ~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css
-|4,39,6,50,1666155669,"~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css"
--'  6  50  ~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css
-|4,39,6,50,1666155669,"~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css
-|4,39,1,0,1666155623,"~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css
-|4,39,1,0,1666155623,"~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css"
--'  2  26  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,39,2,26,1666155605,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
--'  2  26  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,39,2,26,1666155605,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,39,1,0,1666155494,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,39,1,0,1666155494,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-|4,39,1,0,1666155494,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  21  10  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,21,10,1666155476,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666155425,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  56  70  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,56,70,1666154948,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
--'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-|4,39,1,0,1666154876,"~/Docker_Tut/getting-started-master/app/src/static/js/app.js"
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  2  28  ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
+|4,39,2,28,1666185427,"~/Docker_Tut/getting-started-master/app/src/static/css/styles.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
+-'  1  0  ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+|4,39,1,0,1666185415,"~/Docker_Tut/getting-started-master/app/src/static/css/style.css"
 
 # History of marks within files (newest to oldest):
 
+> ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
+	*	1666188407	0
+	"	179	39
+	^	167	40
+	.	167	39
+	+	56	70
+	+	109	56
+	+	167	39
+
 > ~/Docker_Tut/getting-started-master/app/src/static/css/styles.css
-	*	1666155981	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
+	*	1666188285	0
+	"	5	19
+	^	14	4
+	.	14	4
+	+	2	29
+	+	3	200
+	+	6	80
+	+	20	69
+	+	20	106
+	+	6	4
+	+	20	96
+	+	20	105
+	+	20	0
+	+	21	0
+	+	11	80
+	+	14	4
+
+> ~/Docker_Tut/getting-started-master/app/src/static/css/style.css
+	*	1666185407	0
+	"	1	0
 
 > ~/Docker_Tut/getting-started-master/app/src/static/css/bootstrap.min.css
-	*	1666155651	0
-	"	6	50
-
-> ~/Docker_Tut/getting-started-master/app/src/static/js/app.js
-	*	1666155471	0
-	"	21	10
-	^	56	71
-	.	56	70
-	+	56	70
+	*	1666185033	0
+	"	6	48
+	^	6	49
+	.	6	49
+	+	6	49
