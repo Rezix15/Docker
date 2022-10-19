@@ -172,3 +172,179 @@ git remote add origin
 git remote add git@github.com:Rezix15/Docker.git
 git remote add origin git@github.com:Rezix15/Docker.git
 ls
+cd Docker_TRut
+cd Docker_Tut
+cd getting-started
+cd getting-started-master
+cd app
+docker run -d ubuntu bash -c "shuf -i 1-10000 -n 1 -o /data.txt && tail -f /dev/null"
+docker exec
+docker exec 0c5d5b0288
+docker exec 0c5d5b0288 cat /data.txt
+docker run -it ubuntu ls /
+docker stop 0c5d5b0288
+docker rm 0c5d5b0288
+docker volume create todo-db
+docker stop todo-db
+docker rm -f todo-db
+ps
+ls
+docker ps
+docker stop d486f52
+docker rm d486f52
+docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started
+docker ps
+docker rm -f 5955b649
+docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started
+docker ps
+docker rm -f 39fced41
+docker volume inspect todo-db
+docker ps
+docker stop 1facf3
+docker rm 1facf3
+docker ps
+docker run -dp 3000:3000 \ -w /app -v "$(pwd):/app" \ node:12-alpine \ sh -c "yarn install && yarn run dev"
+docker run -dp 3000:3000      -w /app -v "$(pwd):/app"      node:12-alpine      sh -c "yarn install && yarn run dev"
+docker logs
+docker logs -f d8c009d57ef3
+cd src/static/js
+ls
+vim app.js
+cd ../
+cd css
+ls
+vim bootstrap.min.css
+cd ../
+cd app
+ls
+cd js
+ls
+vim app.js
+cd ../
+cd css
+ls
+vim style.css
+ls
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000
+docker run -dp 80:3000 getting-started
+docker ps
+docker stop abc657d21ee3
+docker rm abc657d21ee3
+docker stop d8c009d
+docker rm d8c009d
+ls
+cd src
+cd static
+
+cd css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000      -w /app -v "$(pwd):/app"      node:12-alpine      sh -c "yarn install && yarn run dev"
+docker rm -f 9146d6c
+docker ps
+cd src
+cd static
+ls
+cd css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000      -w /app -v "$(pwd):/app"      node:12-alpine      sh -c "yarn install && yarn run dev"
+cd src/static/js
+cd ../
+cd css
+vim styles.css
+cd ../
+docker ps
+docker rm -f 34c49ba
+docker run -dp 80:3000      -w /app -v "$(pwd):/app"      node:12-alpine      sh -c "yarn install && yarn run dev"
+docker rm -f c7baa05ab
+cd static/src
+cd src/static
+cd css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000      -w /app -v "$(pwd):/app"      node:12-alpine      sh -c "yarn install && yarn run dev"
+docker rm -f 3014c9a
+cd src/static/css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000      -w /app -v "$(pwd):/app"      node:12-alpine      sh -c "yarn install && yarn run dev"
+docker rm -f a36808
+docker ps
+cd src/static/css
+ls
+vim styles.css
+cd ../
+cd js
+vim app.js
+cd ../
+docker build -t getting-started .
+docker push c20478706/getting-started:latest
+docker build -t getting-started .
+docker ps
+docker run -dp 80:3000 -v todo-db:/etc/todos getting-started
+cd ..
+git status
+git add .
+git commit -m "Updated"
+git push
+git remote add upstream git@github.com:Rezix15/Docker.git
+git remote -v
+git add .
+git status
+git add .
+git commit -m "Updated"
+git add .
+git commit -m "Updated"
+git add .
+git commit -m "Updated"
+git add --all
+git status
+git commit -m "Updated"
+git push
+git push --set-upstream origin git@github.com:Rezix15/Docker.git
+git add --all
+git status
+git commit -m "Updated"
+git push -u origin main
+git config --global push.autoSetupRemote true
+git push -u origin main
+eval "$(ssh-agent -s)"
+gpg --full-generate-key
+ls
+cd getting-started-master
+ls
+cd app
+
+docker rm -f 3efece
+docker build -t getting-started .
+docker run -dp 80:3000 -v todo-db:/etc/todos getting-started
+docker ps
+cd ../
+git add .
+git add -all
+git add --all
+git commit -m "Updated"
+git config --global user.name "Rezix"
+git config --global user.name C20478706@mytudublin.ie
+git add --all
+git commit -m "Updated"
+git push
+docker ps
+docker stop c5988be
+
+docker run -dp 80:3000 -v todo-db:/etc/todos getting-started
+docker ../
+docker stop 725b4de
+docker rm 725b4de
+cd getting-started-master
+cd app
+ls
+cd Docker_Tut
