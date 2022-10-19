@@ -348,3 +348,12 @@ cd getting-started-master
 cd app
 ls
 cd Docker_Tut
+git add .
+git commit -m "Updated"
+git add .
+git commit -m "Updated"
+git add --all
+git commit -m "Updated"
+git push
+git remote -v
+git push -u origin master
