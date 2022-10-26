@@ -357,3 +357,369 @@ git commit -m "Updated"
 git push
 git remote -v
 git push -u origin master
+cd Docker_Tut
+git add -all
+git add --all
+git commit -m "Updated"
+cd Docker_Tut
+git add --all
+git commit -m "updated"
+git push origin -u master
+git remote -v
+git push upstream -u master
+ls
+cd Docker
+ls
+cd Docker_Tut
+ls
+cd getting-started-master
+ls
+cd app
+ls
+cd src
+ls
+cd static
+ls
+cd css
+ls
+vim styles.css
+cd ../
+ls
+cd Docker_Tut
+ls
+cd getting-started-master
+ls
+cd app
+ls
+cd src
+ls
+cd static
+ls
+cd css
+ls
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+cd Docker
+ls
+cd ../
+cd Docker_Tut
+ls
+cd getting-started-master
+ls
+cd app
+docker build -t getting-started .
+docker ps
+docker rm 4d914d4
+docker stop 4d914d4
+docker rm 4d914d4
+docker image
+docker images
+docker  7c7803cc9371
+docker build -t getting-started .
+docker ps
+docker run -dp 80:3000 getting-started
+cd Docker_Tut
+cd getting-started-master
+cd app
+cd static
+cd src
+cd static
+cd css
+ls
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f 80f88ae
+cd src
+cd static
+ls
+vim index.html
+ls
+cd css
+ls
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f 75a8ba0f2e
+cd src
+cd static
+ls
+cd css
+ls
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker ps
+docker run -dp 80:3000 getting-started
+docker rm -f 5cbfdab21
+cd static
+cd src
+cd static
+ls
+cd css
+ls
+vim styles.css
+cd ../
+docker ps
+docker build -t getting-started .
+ls
+docker run -dp 80:3000 getting-started
+docker rm -f 8b70ca3b
+cd static
+cd src
+cd static
+ls
+cd css
+vim styles.css
+cd ../
+docker ps
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f 23afca21
+cd src
+cd static
+cd css
+vim styles.css
+cd ../
+docker ps
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f 15b6bb271
+cd src/static/css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f 79b52c14
+cd src/static/css
+vim styles.css
+cd ../
+docker ps
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f fe440c4
+cd src/static/css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f 30385bf
+cd src/static/css
+vim styles.css
+cd ../ ../ ../
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+cd src/static/css
+vim styles.css
+cd ../
+ls
+docker ps
+
+cd src/static/css
+vim styles.css
+cd ../
+ls
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f f5af9ed
+cd src/static/css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f 25b57375
+cd src/static/css
+vim styles.css
+cd ../
+docker build -t getting-started .
+docker run -dp 80:3000 getting-started
+docker rm -f e7f361b
+cd src/static/css
+cd ../
+ls
+cd js
+ls
+vim app.js
+ls
+cd ../
+ls
+vim index.html
+ls
+cd js
+ls
+vim babel.min.js
+ls
+vim react-bootstrap.js
+ls
+cd ../
+ls
+vim index.html
+ls
+cd js
+ls
+vim react-dom.production.min.js
+ls
+vim react.production.min.js
+cd ../
+vim index.html
+cd js
+ls
+vim app.js
+cd ../
+docker build -t getting-started .
+docker ps
+docker run -dp 80:3000 getting-started
+docker rm -f 91af1cd3a
+docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always \ 
+docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always     -v /var/run/docker.sock:/var/run/docker.sock     -v portainer_data:/data     portainer/portainer-ee:latest
+docker ps
+docker rm -f 63624a7
+docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always     -v /var/run/docker.sock:/var/run/docker.sock     -v portainer_data:/data     portainer/portainer-ee:latest
+docker rm -f c211fd1
+docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always     -v /var/run/docker.sock:/var/run/docker.sock     -v portainer_data:/data     portainer/portainer-ee:latest
+docker ps
+docker rm -f b3941a
+docker run -d -p 9000:9000 -p 9443:9443 --name=portainer --restart=always     -v /var/run/docker.sock:/var/run/docker.sock     -v portainer_data:/data     portainer/portainer-ee:latest
+docker ps
+cd Docker_Tut
+cd getting-started-master
+cd app
+docker ps
+docker rm -f 6373a54
+docker network create todo-app
+docker ps
+docker run -d      --network todo-app --network-alias mysql      -v todo-mysql-data:/var/lib/mysql      -e MYSQL_ROOT_PASSWORD=secret      -e MYSQL_DATABASE=todos      mysql:5.7
+docker ps
+docker exec -it 60791808976d
+docker exec -it 60791808976d mysql -u root -p
+docker ps
+docker run -it --network todo-app nicolaka/netshoot
+docker run -d      --network todo-app --network-alias mysql      -v todo-mysql-data:/var/lib/mysql      -e MYSQL_ROOT_PASSWORD=secret      -e MYSQL_DATABASE=todos      mysql:5.7
+docker exec -it 94426b33 mysql -u root -p
+docker ps
+docker rm -f 94426b
+docker exec -it 60791808976d mysql -u root -p
+docker logs d7170c
+docker ps
+docker logs d7170c
+docker exec -it d7170c mysql -p todos
+docker ps
+docker exec -it 607918 mysql -p todos
+docker ps
+docker rm -f d710c
+docker rm -f d7170c
+docker rm -f 607918
+docker compose version
+docker-compose.yml
+vim docker-compose.yml
+ls
+cat docker-compose.yml
+cat > docker-compose.yml
+ls
+vim docker-compose.yml
+docker run -dp 3000:3000   -w /app -v "$(pwd):/app"   --network todo-app   -e MYSQL_HOST=mysql   -e MYSQL_USER=root   -e MYSQL_PASSWORD=secret   -e MYSQL_DB=todos   node:12-alpine   sh -c "yarn install && yarn run dev"
+ls
+vim docker-compose.yml
+docker run -d      --network todo-app --network-alias mysql      -v todo-mysql-data:/var/lib/mysql      -e MYSQL_ROOT_PASSWORD=secret      -e MYSQL_DATABASE=todos      mysql:5.7
+docker ps
+docker rm -f d9c48df
+docker rm -f 733505
+docker ps
+docker compose up -d
+vim docker-compose.yml
+docker compose up -d
+docker ps
+ls
+docker compose up -d
+vim docker-compose.yml
+docker compose up -d
+vim docker-compose.yml
+docker compose up -d
+vim docker-compose.yml
+docker compose up -d
+vim docker-compose.yml
+docker compose up -d
+docker compose logs -f
+docker ps
+docker compose down
+docker ps
+cd Docker_Tut
+cd getting-started-master
+cd app
+docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always     -v /var/run/docker.sock:/var/run/docker.sock     -v portainer_data:/data docker compose logs -f
+docker ps
+docker rm -f 327dee
+docker run -d -p 9000:9000 -p 9443:9443 --name=portainer --restart=always     -v /var/run/docker.sock:/var/run/docker.sock     -v portainer_data:/data     portainer/portainer-ee:latest
+docker network create todo-app
+docker ps
+docker rm -f 948aaa
+d
+docker run -d      --network todo-app --network-alias mysql      --platform "linux/amd64"      -v todo-mysql-data:/var/lib/mysql      -e MYSQL_ROOT_PASSWORD=secret      -e MYSQL_DATABASE=todos      mysql:5.7
+docker ps
+docker rm -f 9946fa
+docker ps
+ls
+vim docker-compose.yml
+docker compose up -d
+docker compose down -v
+vim docker-compose.yml
+docker psa
+docker ps -a
+docker compose up
+docker ps -a
+docker ls
+ls
+cd spec
+ls
+cd ../
+cd src
+ls
+cd ../
+ls
+docker compose down -v
+vim docker-compose.yml
+docker compose up
+vim docker-compose.yml
+docker compose up -d
+docker compose down
+vim docker-compose.yml
+docker compose up -d
+docker compose down
+vim docker-compose.yml
+docker compose up
+cd Docker_Tut
+cd getting-started
+cd getting-started-master
+cd Docker_Tut
+cd getting-started-master
+cp app -r app2
+ls
+cd app2
+ls
+cd src
+ls
+cd static
+ls
+cd js
+ls
+cd app.js
+vim app.js
+cd ../
+ls
+cd app
+ls
+vim docker-compose.yml 
+docker compose up 
+cd ../
+ls
+cd app2
+ls
+cd ../
+vim docker-compose.yml
+cd app
+vim docker-compose.yml
